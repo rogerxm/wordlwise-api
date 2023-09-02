@@ -1,36 +1,40 @@
 {
-  "comments": [
+  "cities": [
     {
-      "id": 1,
-      "name": "Comment 1"
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
     },
     {
-      "id": 2,
-      "name": "Comment 2"
+      "cityName": "Miami",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-08-28T21:19:29.878Z",
+      "notes": "Nice trip 😍",
+      "position": {
+        "lat": "25.761961871960587",
+        "lng": "-80.19580578101707"
+      },
+      "id": 98443199
     },
     {
-      "id": 3,
-      "name": "Comment 3"
-    }
-  ],
-  "users": [
-    {
-      "id": 1,
-      "name": "User 1",
-      "username": "username1",
-      "email": "user1@example.com"
-    },
-    {
-      "id": 2,
-      "name": "User 2",
-      "username": "username2",
-      "email": "user2@example.com"
-    },
-    {
-      "id": 3,
-      "name": "User 3",
-      "username": "username3",
-      "email": "user3@example.com"
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-08-29T18:27:07.602Z",
+      "notes": "sasadj",
+      "position": {
+        "lat": "48.83355182430887",
+        "lng": "2.321814595897913"
+      },
+      "id": 98443200
     }
   ]
 }
